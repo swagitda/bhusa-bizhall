@@ -10,6 +10,8 @@ An analysis of the Black Hat USA 2018 Business Hall
 
 [List of Private Equity firms with a majority stake in companies in the Business Hall](https://github.com/swagitda/bhusa2018-bizhall/blob/master/pe-firms.md)
 
+[Super serious analysis](https://github.com/swagitda/bhusa2018-bizhall/serious-analysis)
+
 ## A Note on Data Collection
 Vendors were retrieved from the [Black Hat 2018 Business Hall Floorplan](http://www.expocad.com/host/fx/ubm/18blckh/exfx.html#exhibitors), and exclude any Federal agencies, educational organizations, or nonprofits. I also excluded any companies in the Career Zone, as they are aiming to recruit security talent rather than sell products or services (for example, I presume Major League Baseball is not selling the latest Threat Intelligence Automation on the Blockchain.)
 

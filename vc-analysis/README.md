@@ -11,6 +11,9 @@ All investors who led or followed a round at any period in the company's funding
 ## Amount of funding raised, by stage
 ![Amount of funding raised, by stage](https://github.com/swagitda/bhusa2018-bizhall/blob/master/vc-analysis/vc-funding-by-stage.png)
 
+## VC-backed companies, by recency of funding
+![VC-backed companies, by recency of funding](https://github.com/swagitda/bhusa2018-bizhall/blob/master/vc-analysis/vc-by-age.png) 
+
 ## Number of companies invested, by VC firm (you probably want to zoom in)
 ![# of companies invested, by VC firm](https://github.com/swagitda/bhusa2018-bizhall/blob/master/vc-analysis/vc-fund-count-with-names.png)
 

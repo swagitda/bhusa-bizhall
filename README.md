@@ -4,6 +4,8 @@ An analysis of the Black Hat USA 2018 Business Hall
 ## Quick Nav
 [Raw data table of all vendors exhibiting](https://github.com/swagitda/bhusa2018-bizhall/blob/master/data-table/bhusa18-bizhall-list.md)
 
+[Top 20 VC firms, based on number of investments into companies in the Business Hall](https://github.com/swagitda/bhusa2018-bizhall/blob/master/vc-analysis/top20-vc.md)
+
 
 
 ## Glossary / Legend

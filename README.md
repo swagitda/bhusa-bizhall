@@ -1,5 +1,5 @@
 # bhusa2018-bizhall
-An analysis of the Black Hat USA 2018 Business Hall
+An analysis of the Black Hat USA 2018 Business Hall. There is [a corresponding Medium post](https://medium.com/@kshortridge/analyzing-the-black-hat-usa-2018-business-hall-65836a11475c).
 
 ## Quick Nav
 [Raw data table of all vendors exhibiting](https://github.com/swagitda/bhusa2018-bizhall/blob/master/data-table/bhusa18-bizhall-list.md)

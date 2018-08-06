@@ -21,5 +21,5 @@ Below is the list of the top 20 Venture Capital firms, based on the total number
 | Paladin Capital          | 2      | 2      | 4      |
 | Singtel Innov8           | 2      | 2      | 4      |
 | AllegisCyber             | 1      | 3      | 4      |
+| ClearSky                 | 1      | 3      | 4      |
 | In-Q-Tel                 | 1      | 3      | 4      |
-| Data Collective          | 0      | 4      | 4      |
